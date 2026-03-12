@@ -2,3 +2,4 @@ Nome: Eduarda Bergamo
 Curso: ADS
 Linguagens favoritas: Python
 Hobbies: Programar
+GitHub: https://github.com/eduardabergamo
