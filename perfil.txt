@@ -1,0 +1,3 @@
+Nome: Eduarda Bergamo
+Curso: ADS
+Linguagens favoritas: Python
